@@ -9,13 +9,13 @@ Argentina
 Portugal  
 Espanha  
 O número de elementos são 4.
-<models.Node.Node object at 0x00000160C0A0AE30>
+<models.Node.Node object at 0x00000246F994AE30>
 Chile  
 Argentina  
 Portugal  
 Espanha  
 Franca  
-<models.Node.Node object at 0x00000160C0A0AE30>
+<models.Node.Node object at 0x00000246F994AE30>
 Chile  
 Argentina  
 Portugal  
@@ -49,7 +49,7 @@ Franca
 O número de elementos são 9.
 Item found
 O país Portugal encontra-se na lista.
-item bot found
+item not found
 O país Alemanha não se encontra na lista.
 O país China foi eliminado da lista.
 O número de elementos são 8.
